@@ -12,6 +12,7 @@ flask-wtf = "*"
 flask-mail = "*"
 os = "*"
 flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [requires]
 python_version = "3.6"
